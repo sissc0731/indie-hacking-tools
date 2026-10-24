@@ -77,6 +77,12 @@
 | [Fly.io](https://fly.io) | 容器 | 3个VM |
 | [Render](https://render.com) | Web服务 | 750h/月 |
 
+## 📱 App 发布
+
+| 工具 | 说明 | 许可/价格 |
+|------|------|-----------|
+| [apkgo](https://apkgo.baici.tech) | 开源 CLI + 托管版，一次上传并发发布到国内主流安卓应用商店，并支持鸿蒙与 iOS（[CLI](https://github.com/KevinGong2013/apkgo)） | CLI：PolyForm Noncommercial / 云服务付费 |
+
 ## 📣 推广
 
 | 渠道 | 适合 |

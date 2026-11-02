@@ -82,6 +82,7 @@
 | 渠道 | 适合 |
 |------|------|
 | [Product Hunt](https://producthunt.com) | 海外产品首发 |
+| [SitePatent](https://sitepatent.com/) | 海外创业产品与工具目录 |
 | [V2EX](https://v2ex.com) | 中文技术社区 |
 | [掘金](https://juejin.cn) | 前端/全栈 |
 | [即刻](https://okjike.com) | 产品/创业话题 |

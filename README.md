@@ -90,6 +90,7 @@
 | [Hacker News](https://news.ycombinator.com) | 技术圈首发 |
 | [小红书](https://xiaohongshu.com) | 工具/效率话题 |
 | [知乎](https://zhihu.com) | 深度内容引流 |
+| [MEDIAPRONET](https://mediapronet.com) | 海外新产品目录收录 |
 
 ## 💰 变现
 
